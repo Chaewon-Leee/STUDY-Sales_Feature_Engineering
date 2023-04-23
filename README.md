@@ -2,6 +2,8 @@
 
 > [PreProcessing 강의](https://github.com/Chaewon-Leee/TIL/tree/main/ML/Data_Preprocessing) 수강 이후, 데이터 전처리 과정을 진행해보고자 함
 
+- 기간 : 22.11.27 ~ 22.12.07
+
 ### 가게 매출액 예측 프로젝트
 
 - 애콰도르의 위치한 가게 품목별 매출액 예측
